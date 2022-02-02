@@ -1,1 +1,1 @@
-changing file3
+changing file3 into conflict
