@@ -1,3 +1,0 @@
-file 1
-add another text
-try to conflict
